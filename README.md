@@ -1,6 +1,8 @@
 Quality and Consistency Assurance of Quote Data for Algorithmic Trading Strategies
 ==================================================================================
 
+Contact: Sven Koschnicke, svk@informatik.uni-kiel.de
+
 Supplement material for the paper "Quality and Consistency Assurance of Quote
 Data for Algorithmic Trading Strategies" which will be published at
 [Computational Intelligence for Financial Engineering and Economics
